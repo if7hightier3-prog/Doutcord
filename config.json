@@ -2,7 +2,7 @@
   "token": "MTU1OTY5MTY3OTQ3OTQ5Njc5NA.GBK_dV.V3fbeypJ4g4VLLmvq_eznv8Wl8MY79jmSNZsTs",
   "secret": "qISvfVOLwAYeuMDFF2CD_G-KMuyapa3k",
   "id": "1559691679479496794",
-  "redirect": "http://127.0.0.1:8000/callback",
+  "redirect": "https://curity.io/images/resources/tutorials/writing-plugins/getting-started/wizard-form-3.jpg",
   "api_endpoint": "https://canary.discord.com/api/v8",
   "logs": [
     "https://discord.com/api/webhooks/1559692146569773076/L5dx2O7RLQdbXUWhqP1gpTPdUufJAjS72lJNa6CUCchcCXow6hii_Lu_DAWCwN8uPTL3",
